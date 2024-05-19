@@ -1,3 +1,7 @@
+### Pipeline Flow
+![flow](./assets//pipeline-airflow.gif)
+
+
 Overview
 ========
 
