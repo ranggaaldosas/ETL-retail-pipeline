@@ -1,6 +1,8 @@
 ### Pipeline Flow
 ![flow](./assets//pipeline-airflow.gif)
 
+### Simple Dashboard
+![flow](./assets/simple_dashboard.png)
 
 Overview
 ========
